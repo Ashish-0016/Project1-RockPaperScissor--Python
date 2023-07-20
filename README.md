@@ -1,1 +1,1 @@
-# Projec2-RocjPaperScissor
+# Projec1-RockPaperScissor
